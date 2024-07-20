@@ -40,8 +40,6 @@ This project generates LinkedIn posts by scraping headlines from a news website 
 
     ```env
     API_KEY=your_gemini_api_key
-    LINKEDIN_ACCESS_TOKEN=your_linkedin_access_token
-    LINKEDIN_PAGE_ID=your_linkedin_page_id
     ```
 
 4. **Run the Script**
@@ -49,7 +47,7 @@ This project generates LinkedIn posts by scraping headlines from a news website 
     Execute the script to generate and post LinkedIn content:
 
     ```sh
-    python LinkedInAutomate.py
+    python app.py
     ```
 
 ## Instructions
@@ -68,7 +66,7 @@ For scraping instructions and techniques, refer to this [video tutorial](https:/
 
 ## Notes
 
-- Ensure you have valid API keys and permissions for LinkedIn and the Gemini API.
+- Ensure you have valid Gemini API.
 - Update the `.env` file with your credentials before running the script.
 
 ## License
