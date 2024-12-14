@@ -1,7 +1,3 @@
-Here’s a well-structured README section for your GitHub repository:
-
----
-
 # LinkedIn-Post-Generator
 
 This project generates LinkedIn posts by scraping headlines from a news website and using the Gemini API with the `gemini-1.5-flash` model for content creation.
@@ -73,6 +69,4 @@ For scraping instructions and techniques, refer to this [video tutorial](https:/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust the details according to your specific implementation and preferences.
